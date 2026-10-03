@@ -2,7 +2,7 @@
 
 ### A simple PDF merger for Windows, made to be nice to use.
 
-<img src="Assets/UNIFICADOR-DISPLAY.gif" width="700">
+<img src="UNIFICADOR-DISPLAY.gif" width="700">
 
 I made PDF UNIFICATOR because, honestly, I don't like using ugly software.
 
