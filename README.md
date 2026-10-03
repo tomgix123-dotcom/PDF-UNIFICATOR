@@ -37,7 +37,7 @@ The goal is to make **merging PDFs feel easy**.
 
 You don't need Python or any other software to use PDF UNIFICATOR.
 
-Download the latest `.exe` from the **Releases** section, open it, select your PDFs and start merging.
+[Download the latest version](https://github.com/tomgix123-dotcom/PDF-UNIFICATOR/releases) `.exe` from the **Releases** section, open it, select your PDFs and start merging.
 
 It's portable, so there is no installation process.
 
@@ -92,6 +92,13 @@ No Python installation is required.
 No dependencies need to be installed manually.
 
 Download the executable and run it.
+
+---
+### Language
+
+The interface is currently in Spanish.
+
+If people actually want it, I can add a language selector in a future version.
 
 ---
 
