@@ -4,7 +4,7 @@ A simple Windows desktop application for merging multiple PDF files into a singl
 The buttons are in spanish, if people want it in english i would make a language selector, but this
 was a personal tool proyect i did for me, but maybe its usefull for you, so you´re welcolme.
 
-![UNIFICADOR DISPLAY](UNIFICADOR-DISPLAY.GIF)
+![UNIFICADOR](UNIFICADOR-DISPLAY.gif)
 
 ## Features
 
